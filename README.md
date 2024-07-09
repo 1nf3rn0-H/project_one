@@ -8,3 +8,9 @@
 ### APT Simulation to build behavioural Detections
 - Study APT attack pattern to understand threat surface.
 - Build detections based on Behaviour.
+### Vehicle Forensics
+- Universal translator + EDR
+- Resource : https://www.salvationdata.com/knowledge/what-is-digital-vehicle-forensics/
+- Resource : https://www.sciencedirect.com/science/article/pii/S2666281722001214
+- Similar : https://digitpol.com/automotive-forensics/
+- 
